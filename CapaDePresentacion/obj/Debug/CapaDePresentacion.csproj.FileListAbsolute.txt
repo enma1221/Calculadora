@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Curso Programacion C#\CapaDePresentacion\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe.config
+C:\Users\Lenovo\Desktop\Curso Programacion C#\CapaDePresentacion\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe
+C:\Users\Lenovo\Desktop\Curso Programacion C#\CapaDePresentacion\CapaDePresentacion\bin\Debug\CapaDePresentacion.pdb
+C:\Users\Lenovo\Desktop\Curso Programacion C#\CapaDePresentacion\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Curso Programacion C#\CapaDePresentacion\CapaDePresentacion\obj\Debug\CapaDePresentacion.Form1.resources
+C:\Users\Lenovo\Desktop\Curso Programacion C#\CapaDePresentacion\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Curso Programacion C#\CapaDePresentacion\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Curso Programacion C#\CapaDePresentacion\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Curso Programacion C#\CapaDePresentacion\CapaDePresentacion\obj\Debug\CapaDePresentacion.exe
+C:\Users\Lenovo\Desktop\Curso Programacion C#\CapaDePresentacion\CapaDePresentacion\obj\Debug\CapaDePresentacion.pdb
+C:\Users\Lenovo\Desktop\Curso Programacion C#\CapaDePresentacion\CapaDePresentacion\obj\Debug\CapaDePresentacion.Calculadora.resources
+C:\Users\Lenovo\Desktop\Curso Programacion C#\CapaDePresentacion\CapaDePresentacion\obj\Debug\CapaDePresentacion.Dias.resources
